@@ -1,0 +1,17 @@
+Name,Action,Balance
+Dana Goodwin,Initialize,50.25
+Rumi Poe,Initialize,500.75
+Cleo Fin,Initialize,0
+Dana Goodwin,Initialize,80.25
+
+Dana Goodwin,Withdraw,60.25
+Dana Goodwin,Deposit,85.25
+Dana Goodwin,Deposit,105.25
+Dana Goodwin,Withdraw,85.25
+Dana Goodwin,Withdraw,65.25
+Dana Goodwin,Withdraw,45.25
+Dana Goodwin,Withdraw,25.25
+Dana Goodwin,Withdraw,5.25
+Dana Goodwin,Deposit,305.25
+Dana Goodwin,Withdraw,5.25
+Dana Goodwin,Deposit,205.25
